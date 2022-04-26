@@ -13,9 +13,7 @@ public static Scanner scan=new Scanner(System.in);
     private static double yariCap=1;
     private static double uzunKenar =1;
     private static double genislik=1;
-public static double kareDikdortgenAlan=getUzunKenar()*getGenislik();
-public static double kareDikdortgenCevre=(getUzunKenar()+getGenislik())*2;
-public static double cemberAlan=getYariCap()*getYariCap()*AlanCevreBilgileri.PI_SAYISI;
+
 
     public Variables() {
     }
